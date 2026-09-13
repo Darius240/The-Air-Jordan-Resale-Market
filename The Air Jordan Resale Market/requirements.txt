@@ -1,0 +1,14 @@
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.8
+seaborn==0.13.2
+scikit-learn==1.8.0
+joblib==1.5.3
+
+# The five pins above were verified against the environment actually used to build and run
+# every notebook, chart, and number in this project. The three below were not — install these
+# without a version pin unless you hit a compatibility issue, in which case pin whatever
+# version resolves for you:
+jupyter
+ipywidgets
+streamlit
