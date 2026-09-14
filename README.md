@@ -135,5 +135,5 @@ This loads the pre-trained `model.pkl` (already included — no need to retrain)
 regenerate it yourself (e.g. after changing the data), run `python train_model.py` first, which
 retrains the same tuned Random Forest and overwrites `model.pkl`.
 
-[`jordan_price_predictor.html`](jordan_price_predictor.html) needs no setup at all — just open the
+The Air Jordan Resale Market/jordan_price_predictor.html needs no setup at all — just open the
 file directly in any browser.
